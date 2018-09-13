@@ -1,5 +1,7 @@
 node-oauth
 ===========
+THIS IS A FORK (COPY) OF node-oauth BY https://github.com/ciaranj/node-oauth. I JUST ADDED THE FEATURE TO BE ABLE TO CHANGE THE CONTENT-TYPE.
+
 A simple oauth API for node.js .  This API allows users to authenticate against OAUTH providers, and thus act as OAuth consumers. It also has support for OAuth Echo, which is used for communicating with 3rd party media providers such as TwitPic and yFrog.
 
 Tested against Twitter (http://twitter.com), term.ie (http://term.ie/oauth/example/), TwitPic, and Yahoo!
