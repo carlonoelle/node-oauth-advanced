@@ -1,4 +1,4 @@
-node-oauth
+node-oauth-advanced
 ===========
 THIS IS A FORK (COPY) OF node-oauth BY https://github.com/ciaranj/node-oauth. I JUST ADDED THE FEATURE TO BE ABLE TO CHANGE THE CONTENT-TYPE.
 
