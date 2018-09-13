@@ -8,5 +8,8 @@
 , "devDependencies": {
     "vows": "0.5.x"
   }
+, "scripts": {
+    "test": "make test"
+    }
 , "license": "MIT" 
 }
